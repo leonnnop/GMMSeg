@@ -1,4 +1,4 @@
-# GMMSeg
+# GMMSeg: Gaussian Mixture based Generative Semantic Segmentation Models
 
 ![](assets/discriminative-vs-generative.png)
 
