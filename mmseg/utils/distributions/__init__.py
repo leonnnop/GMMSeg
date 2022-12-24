@@ -1,0 +1,1 @@
+from .multivariate_normal_diag import MultivariateNormalDiag
