@@ -61,11 +61,11 @@ May also see a series of our related works in visual recognition:
 If you find GMMSeg useful or inspiring, please consider citing our paper:
 
 ```bibtex
-@article{liang2022gmmseg,
-  title    = {GMMSeg: Gaussian Mixture based Generative Semantic Segmentation Models},
-  author   = {Liang, Chen and Wang, Wenguan and Miao, Jiaxu and Yang, Yi},
-  journal  = {Advances in Neural Information Processing Systems},
-  year     = {2022}
+@inproceedings{liang2022gmmseg,
+  title     = {GMMSeg: Gaussian Mixture based Generative Semantic Segmentation Models},
+  author    = {Liang, Chen and Wang, Wenguan and Miao, Jiaxu and Yang, Yi},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2022}
 }
 ```
 
